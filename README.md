@@ -6,3 +6,8 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+## Projetos recentes:
+
+- [linuxcomandos](https://linuxcomandos.netlify.app)
+- [gamefetch-cli](https://github.com/aglairvta/gamefetch-cli)
